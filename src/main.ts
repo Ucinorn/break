@@ -25,6 +25,4 @@ const config: Types.Core.GameConfig = {
     ]
 };
 
-hello();
-
 export default new Game(config);
